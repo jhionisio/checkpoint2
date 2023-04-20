@@ -1,4 +1,4 @@
-# checkpoint_dois_business
+# checkpoint_dois_enterprise
 -----------------------
 
-## Repositório destinado a realização do segundo checkpoint de business.
+## Repositório destinado a realização do segundo checkpoint de enterprise.
